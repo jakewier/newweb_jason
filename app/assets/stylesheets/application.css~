@@ -17,27 +17,36 @@
 #image {
     margin-top: 20px;
     margin-bottom: 10px;
-    margin-right: 150px;
-    margin-left: 430px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 90%
+}
+
+#container{
+    margin-right: auto;
+    margin-left: 400px;
 }
 
 h1{
     margin-top: 20px;
     margin-bottom: 10px;
-    margin-right: 150px;
-    margin-left: 0px;
-    text-align:center;
+    margin-right: auto;
+    margin-left: auto;
+    width: 75%;
+    /*text-align:center;*/
 }
 ol{
     margin-top: 20px;
     margin-bottom: 10px;
-    margin-right: 150px;
-    margin-left: 100px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 70%;
+
 }
 li{
     margin-top: 20px;
     margin-bottom: 10px;
-    margin-right: 150px;
-    margin-left: 100px;
+    margin-right: auto;
+    margin-left: auto;
 }
 

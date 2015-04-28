@@ -1,9 +1,7 @@
+
 <h1>Empty Stomach</h1>
 <div id="image"><%= image_tag("empty_stomach.jpg", :alt => "Empty Stomach") %></div>
-<p><%= @paragraph %></p>
-<p><%= @paragraph2 %></p>
-<p><%= @paragraph3 %></p>
-<ol class="c">
+<ol>
 <li><%= @paragraph %></li>
 <li><%= @paragraph2 %></li>
 <li><%= @paragraph3 %></li>
