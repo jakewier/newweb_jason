@@ -19,12 +19,13 @@
     margin-bottom: 10px;
     margin-right: auto;
     margin-left: auto;
-    width: 90%
+
 }
 
 #container{
     margin-right: auto;
-    margin-left: 400px;
+    margin-left: auto;
+    width: 30%
 }
 
 h1{
@@ -32,15 +33,15 @@ h1{
     margin-bottom: 10px;
     margin-right: auto;
     margin-left: auto;
-    width: 77%;
-    /*text-align:center;*/
+
+text-align:center;
 }
 ol{
     margin-top: 20px;
     margin-bottom: 10px;
     margin-right: auto;
     margin-left: auto;
-    width: 70%;
+    width: 50%;
 
 }
 li{
